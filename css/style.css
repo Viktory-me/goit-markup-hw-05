@@ -118,6 +118,7 @@ a {
 .navigation-list-link:focus
  { color: var(--accent-color);
     }
+
 .header-mail:hover, .header-mail:focus, 
 .header-tel:hover, .header-tel:focus {
     color: var(--accent-color);
@@ -144,14 +145,14 @@ a {
     color: #757575;
 }
 .link-tel  {
-     width: 16px;
+  width: 16px;
   height: 12px;
   margin-right: 10px;
-   fill: currentColor;
+  fill: currentColor;
 }
 
 .link-mail {
-      width: 10px;
+  width: 10px;
   height: 16px;
   margin-right: 10px;
   fill: currentColor;
@@ -232,8 +233,6 @@ a {
 .about-section {
     padding: 94px 0 0;
 }
-
-
 
 .about-list {
     display: flex;
@@ -452,15 +451,15 @@ color: white;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
     text-align: center;
-     padding: 20px 0;
-     color: #AFB1B8;
+    padding: 20px 0;
+    color: #AFB1B8;
     }
 
 .client-icon {
     
-      max-width: 80px;
-      max-height: 52px;
-      fill: currentColor;
+    max-width: 80px;
+    max-height: 52px;
+    fill: currentColor;
 }
 
 /*end section worker*/
@@ -556,13 +555,13 @@ color: white;
     margin-right: 10px;
 }
 .social-link-item {
-    color: white;
-    display: flex;
-   align-items: center;
-   justify-content: center;
-    width: 44px;
-    height: 44px;
-    background-color: rgba(255, 255, 255, 0.1);
+     color: white;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 44px;
+     height: 44px;
+     background-color: rgba(255, 255, 255, 0.1);
      border-radius: 50%;
      background-size: auto;
 }
@@ -572,7 +571,7 @@ color: white;
 .icon-social {
     width: 20px;
     height: 20px;
-fill: currentColor;
+    fill: currentColor;
 }
 /*PORTFOLIO PAGE*/
 
