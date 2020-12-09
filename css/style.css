@@ -61,6 +61,7 @@ button {
 .header .container {
     display: flex;
     align-items: center;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .header {
@@ -683,7 +684,6 @@ button {
 .product-list {
     display: flex;
     align-items: center;
-    border-top: 1px solid #ECECEC;
     padding: 94px 0;
 }
 
@@ -741,7 +741,7 @@ button {
 }
 
 .project-list-item:hover .overlay-project, .project-list-item:focus .overlay-project {
-    transform: translateX(0);
+    transform: translateY(0);
 }
 
 .project-list-item:nth-last-child(-n+3) {
